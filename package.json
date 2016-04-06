@@ -1,0 +1,32 @@
+{
+  "name": "baiji-fsm",
+  "version": "0.3.0",
+  "description": "Simple and yet generic Finite State Machine implementation for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "FSM"
+  ],
+  "author": "nick-jiang",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baijijs/fsm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baijijs/fsm/issues"
+  },
+  "homepage": "https://github.com/baijijs/fsm#readme"
+}
